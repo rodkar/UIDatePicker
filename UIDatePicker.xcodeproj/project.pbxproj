@@ -407,6 +407,7 @@
 				D5F1B39D1A0F23D7008FF382 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D5F1B39E1A0F23D7008FF382 /* Build configuration list for PBXNativeTarget "UIDatePickerTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				D5F1B3A01A0F23D7008FF382 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
